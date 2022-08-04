@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Dubey !!</h1>
-<h3 align="center">I'm currently doing my graduation at Maharaja Surajmal Institute of Technology . I'm pursuing my B.Tech degree in computer science & Engineering.Keen to learn new Technology and Love to contribute in open source projects</h3>
+<p align="center">I'm currently doing my graduation at Maharaja Surajmal Institute of Technology . I'm pursuing my B.Tech degree in computer science & Engineering.Keen to learn new Technology and Love to contribute in open source projects</p>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
