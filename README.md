@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aniket Dubey !!</h1>
 <!-- <p align="center">I'm currently doing my graduation at Maharaja Surajmal Institute of Technology . I'm pursuing my B.Tech degree in computer science & Engineering.Keen to learn new Technology and Love to contribute in open source projects</p> -->
 <p> &#x2022; Computer science student at Maharaja surajmal institute of technology </p>
-<p>&#x2022; Frontend Developer</p>
-<p>&#x2022; Learning about backend technology </p>
+<p>&#x2022; Full stack Developer</p>
+<p>&#x2022; I also code in java and love contributing to open source projects in free time</p>
+
+
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
