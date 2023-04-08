@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Dubey !!</h1>
-<p> &#10140; Computer Science Student at Maharaja Surajmal Institute of Technology </p>
+<p> &#10140; Computer Science Graduate 🎩</p>
 <p>&#10140; Full stack Developer</p>
 <p>&#10140; I also code in java and love contributing to open source projects in free time</p>
 
