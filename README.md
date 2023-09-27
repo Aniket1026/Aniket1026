@@ -2,7 +2,7 @@
 <p> &#10140; Computer Science Under Graduate 🎩</p>
 <p>&#10140; Full Stack Developer 💻 </p>
 <p>&#10140; I also code in java 💫</p>
-<p>&#10140; Love contributing to open source projects ❤ </p>
+<p>&#10140; Open source ❤ </p>
 <p>&#10140; Love to collaborate 👀 </p>
 
 <h3 align="left">Languages and Tools:</h3>
