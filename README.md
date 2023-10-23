@@ -1,7 +1,7 @@
 <h1 align="center">Namastey 🙏, I'm Aniket Dubey !!</h1>
 <p> &#10140; Computer Science Under Graduate 🎩</p>
 <p>&#10140; Full Stack Developer 💻 </p>
-<p>&#10140; JAVA and problem solving 💫</p>
+<p>&#10140; Problem Solving 💫</p>
 <p>&#10140; Open source ❤ </p>
 <p>&#10140; Love to collaborate 👀 </p>
 <h3 align="left">Languages and Tools:</h3>
